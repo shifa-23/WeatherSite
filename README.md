@@ -32,3 +32,16 @@ git clone https://github.com/shifa-23/WeatherSite
 | **Animations**  | GSAP, CSS Animations    |
 | **Icons**       | Font Awesome            |
 | **API**         | OpenWeatherMap API      |
+📦 Clone the Repo
+bash
+Copy
+Edit
+git clone https://github.com/shifa-23/WeatherSite
+⚙️ Tech Stack
+🔖 Category	🛠️ Technology Used
+Frontend	HTML5, CSS3, JavaScript
+Animations	GSAP, CSS Animations
+Icons	Font Awesome
+API	OpenWeatherMap API
+
+🌤️ "There's no such thing as bad weather, only different kinds of good weather."
