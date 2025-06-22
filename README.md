@@ -17,19 +17,18 @@ Experience WeatherCraft right now:
 - 🎉 **Celebration Mode** - Confetti explosions for perfect weather days
 - 📱 **Responsive Design** - Beautiful on any device
 
-**Clone the repo**
-   ```bash
-   git clone [https://github.com/shifa-23/WeatherSite]
+### 📦 Clone the Repo
+
+```bash
+git clone https://github.com/shifa-23/WeatherSite
+
 
 
 
 🛠️ Tech Stack
-| Category       | Technology Used           |
-|----------------|--------------------------|
-| **Frontend**   | HTML5, CSS3, JavaScript  |
-| **Animations** | GSAP, CSS Animations     |
-| **Icons**      | Font Awesome             |
-| **API**        | OpenWeatherMap API       |
-
-
-"There's no such thing as bad weather, only different kinds of good weather."
+| 🔖 **Category** | 🛠️ **Technology Used** |
+| --------------- | ----------------------- |
+| **Frontend**    | HTML5, CSS3, JavaScript |
+| **Animations**  | GSAP, CSS Animations    |
+| **Icons**       | Font Awesome            |
+| **API**         | OpenWeatherMap API      |
