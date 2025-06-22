@@ -21,7 +21,9 @@ Experience WeatherCraft right now:
    ```bash
    git clone [https://github.com/shifa-23/WeatherSite]
 
-## 🛠️ Tech Stack
+
+
+🛠️ Tech Stack
 | Category       | Technology Used           |
 |----------------|--------------------------|
 | **Frontend**   | HTML5, CSS3, JavaScript  |
