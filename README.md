@@ -29,8 +29,8 @@ Experience WeatherCraft right now:
 
 🌤️ "There's no such thing as bad weather, only different kinds of good weather."
 
-## Let's Start
-1. Clone the repository:
+## For Code
+ Clone the repository:
    ```bash
    git clone https://github.com/yourusername/weathercraft.git
 
