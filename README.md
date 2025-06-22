@@ -29,17 +29,10 @@ Experience WeatherCraft right now:
 
 🌤️ "There's no such thing as bad weather, only different kinds of good weather."
 
-## 🚀 Quick Start
+## Let's Start
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/weathercraft.git
 
-📁 Assets Folder Structure
-|**WeatherSite/
-│
-├── assets/
-│   └── weathercraft-logo.png
-├── index.html
-├── style.css
-└── script.js
+
 
