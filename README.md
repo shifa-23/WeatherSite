@@ -1,6 +1,6 @@
 # 🌦️ WeatherCraft: Real-Time Weather Dashboard 
 
-*A stunning, interactive weather application built with passion during our hackathon*  
+*A stunning, interactive weather application built with passion during our hackathon WeatherCraft reimagines weather visualization by blending precise meteorological data with an immersive, intuitive interface. This thoughtfully engineered application transforms raw weather metrics into a delightful user experience that feels both sophisticated and welcoming.*  
 ![WeatherCraft Logo](./assets/weatherLogo.png)
 
 ## 🌟 Live Demo
@@ -20,12 +20,11 @@ Experience WeatherCraft right now:
 ### 📦 Clone the Repo
 
 ```bash
-git clone https://github.com/shifa-23/WeatherSite```
+git clone https://github.com/shifa-23/WeatherSite
 
 
 
-
-🛠️ Tech Stack
+##🛠️ Tech Stack
 | 🔖 **Category** | 🛠️ **Technology Used** |
 | --------------- | ----------------------- |
 | **Frontend**    | HTML5, CSS3, JavaScript |
