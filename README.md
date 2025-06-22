@@ -35,7 +35,7 @@ Experience WeatherCraft right now:
    git clone https://github.com/yourusername/weathercraft.git
 
 📁 Assets Folder Structure
-WeatherSite/
+|**WeatherSite/
 │
 ├── assets/
 │   └── weathercraft-logo.png
