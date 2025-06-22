@@ -17,12 +17,6 @@ Experience WeatherCraft right now:
 - 🎉 **Celebration Mode** - Confetti explosions for perfect weather days
 - 📱 **Responsive Design** - Beautiful on any device
 
-### 📦 Clone the Repo
-
-```bash
-git clone https://github.com/shifa-23/WeatherSite
-
-
 
 ##🛠️ Tech Stack
 | 🔖 **Category** | 🛠️ **Technology Used** |
