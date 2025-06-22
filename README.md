@@ -18,7 +18,7 @@ Experience WeatherCraft right now:
 - 📱 **Responsive Design** - Beautiful on any device
 
 
-##🛠️ Tech Stack
+🛠️ Tech Stack
 | 🔖 **Category** | 🛠️ **Technology Used** |
 | --------------- | ----------------------- |
 | **Frontend**    | HTML5, CSS3, JavaScript |
@@ -28,3 +28,13 @@ Experience WeatherCraft right now:
 
 
 🌤️ "There's no such thing as bad weather, only different kinds of good weather."
+
+📁 Assets Folder Structure
+WeatherSite/
+│
+├── assets/
+│   └── weathercraft-logo.png
+├── index.html
+├── style.css
+└── script.js
+
